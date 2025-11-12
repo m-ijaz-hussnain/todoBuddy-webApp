@@ -1,0 +1,6 @@
+Django>=5.0,<6.0
+python-dotenv
+whitenoise
+django-crispy-forms
+crispy-bootstrap5
+gunicorn
