@@ -123,7 +123,7 @@ TodoBuddy/
 ## 📸 Screenshots
 
 ![Home Screenshot](assets/home.png)
-![TaskList Screenshot](assets/home.png)
+![TaskList Screenshot](assets/task_list.png)
 
 ---
 
