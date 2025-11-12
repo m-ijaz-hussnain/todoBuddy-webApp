@@ -126,7 +126,7 @@ TodoBuddy/
 Example:
 
 ```
-/assets/dashboard.png
+/assets/home.png
 /assets/task-list.png
 ```
 
