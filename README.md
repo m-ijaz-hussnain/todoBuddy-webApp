@@ -122,13 +122,8 @@ TodoBuddy/
 
 ## 📸 Screenshots
 
-*(Add screenshots or demo GIFs here)*
-Example:
-
-```
-assets/home.png
-assets/task-list.png
-```
+![Home Screenshot](assets/home.png)
+![TaskList Screenshot](assets/home.png)
 
 ---
 
