@@ -159,12 +159,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 🌐 **Project Link:** [https://github.com/m-ijaz-hussnain/todoBuddy](https://github.com/m-ijaz-hussnain/todoBuddy)
 
 ---
-
-⭐ If you like this project, don’t forget to **star** the repo and share it with others!
-
-```
-
----
-
 Would you like me to also create a **sample `requirements.txt`** file for this Django project (with Django, crispy forms, etc.) so you can include it before uploading to GitHub?
 ```
